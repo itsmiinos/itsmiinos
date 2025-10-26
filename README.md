@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Yudhajit**](https://www.miraya.tech), a software developer based in India.
+I’m [**Yudhajit**](https://github.com/itsmiinos), a software developer based in India.
 
 I design and build whatever I can imagine.
 
