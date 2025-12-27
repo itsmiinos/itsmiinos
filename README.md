@@ -18,4 +18,4 @@ I’ve built over 100 public repos, but privately.. it’s probably more than 20
 * I don’t like coffee or tea
 * Attack on Titan is my favorite anime
 * Stephen King is my favorite writer
-* **Hobbies:** anime, books, building things
+* **Hobbies:** anime, movies, building things
